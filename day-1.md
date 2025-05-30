@@ -1,6 +1,7 @@
 # The Weekend Approaches
 ## Saturday Activities
 - Sleep late
+!<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 - Walk the dog
 - Shop
 ## Sunday Activities
@@ -15,3 +16,6 @@ Give an example of the SQL syntax for joining 2 tables named invoice and custome
 ```sql
 SELECT * FROM invoice AS i LEFT JOIN customer AS c ON i.customer_id = i.customer_id;
 ```
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
+
